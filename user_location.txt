@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 Location: Coimbatore
-=======
-Location: chennai
->>>>>>> user1
