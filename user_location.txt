@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Location: Coimbatore
 Area : vadavalli
+=======
+Location: chennai
+Area: kattur
+ph: 9884163751
+>>>>>>> user1
